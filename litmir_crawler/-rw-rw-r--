@@ -1,1 +1,0 @@
-SELECT * FROM litmir_urls WHERE type = "book" AND (status = 0 OR httpcode="") LIMIT 100
